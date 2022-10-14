@@ -1,0 +1,25 @@
+.block.about{
+    color: red;
+}
+
+.text .text-about{
+    color: black;
+}
+
+.about-list *{
+    color: orange;
+} 
+
+.image > p{
+    color: grey;
+}
+
+h2 ~ .text{
+    color: brown;
+}
+ 
+.other-thems > ul > li > a{
+    color: darkmagenta;
+}
+
+
